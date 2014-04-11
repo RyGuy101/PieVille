@@ -1,0 +1,9 @@
+name: PieVille
+main: com.blogspot.mathjoy.pieville.PieVille
+version: 3.14
+depend: [Vault]
+commands:
+  sellpie:
+    description: Sell a certain number of pies for 3.14 Dollars each
+  buypie:
+    description: Buy a certain number of pies for 3.14 Dollars each
